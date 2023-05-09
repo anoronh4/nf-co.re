@@ -169,3 +169,5 @@ More recently, [@mashehu](https://github.com/mashehu) has done a great deal of w
 See the [repo contributors](https://github.com/nf-core/nf-co.re/graphs/contributors) for more.
 
 Kudos to the excellent [npm website](https://www.npmjs.com), which provided inspiration for the design of the pipeline pages.
+
+## Extra section
